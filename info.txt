@@ -1,0 +1,7 @@
+** The extracted product name, price, and rating are written to a CSV file named products.csv
+** extract_product_info Function >> This function simulates extracting the product information from the HTML string. It looks for specific HTML tags and extracts the content between them using sscanf. The extracted data is then written to a CSV file.
+** yhe output will be Product Name,Price,Rating
+                              "Product 1","$19.99","4.5"
+                              "Product 2","$29.99","4.0"
+                              "Product 3","$39.99","3.5"
+
